@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.144.88.4:8081/repository/boshem-releases/</url>
+	      <url>http://54.167.33.57:8081/repository/boshem-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.144.88.4:8081/repository/boshem-snapshot/</url>
+	      <url>http://54.167.33.57:8081/repository/boshem-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
