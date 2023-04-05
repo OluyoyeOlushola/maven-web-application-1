@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-               Boshem Autos, 
+               Boshem Automation, 
 		Saskatoon, Canada
 		+1 639 384 5675,
 		boshemautoresources@gmail.com
